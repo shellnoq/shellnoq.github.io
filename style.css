@@ -95,11 +95,12 @@ h6 {
 .blog-post-title {
     margin-bottom: .25rem;
     font-size: 2.5rem;
+    color: rgb(146, 93, 24);
 }
 
 .blog-post-meta {
     margin-bottom: 1.25rem;
-    color: #727272;
+    color: #926060;
 }
 
 /*
